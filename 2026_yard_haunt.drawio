@@ -536,7 +536,7 @@
           <mxGeometry height="80" width="120" x="440" y="-390" as="geometry" />
         </mxCell>
         <mxCell id="OGPbcw0LDPJYkH-NJSHE-2" parent="0" value="Props" visible="0" />
-        <mxCell id="EzEbgY4VTqz-6Y6T7_PC-7" parent="0" value="Cross beams" />
+        <mxCell id="EzEbgY4VTqz-6Y6T7_PC-7" parent="0" value="Cross beams" visible="0" />
         <object label="" tooltip="Cross beam - 48&quot;" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-11">
           <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#336600);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
             <mxGeometry height="200" width="8" x="2190" y="-70" as="geometry" />
