@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net">
   <diagram name="2026 Yard Haunt" id="7Oudr61eQWb0dV1M84EX">
-    <mxGraphModel dx="2416" dy="2462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2568" dy="2546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="BJnBotHbN-F4IOUxwsjP-1" parent="0" value="Yard - Sidewalk - etc" />
+        <mxCell id="1" parent="0" style="locked=1;" />
+        <mxCell id="BJnBotHbN-F4IOUxwsjP-1" parent="0" style="locked=1;" value="Yard - Sidewalk - etc" />
         <mxCell id="BJnBotHbN-F4IOUxwsjP-2" edge="1" parent="BJnBotHbN-F4IOUxwsjP-1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="280" y="410" as="sourcePoint" />
@@ -65,7 +65,7 @@
             <mxPoint x="960" y="-550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-1" parent="0" style="locked=0;" value="Wall Panels — 40 in" />
+        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-1" parent="0" style="locked=1;" value="Wall Panels — 40 in" />
         <object label="1" tooltip="Panel 1 — 40 inches" panelNumber="1" lengthInches="40" drawioLengthUnits="100" orientation="V" sourceX1="100" sourceY1="800" sourceX2="100" sourceY2="900" id="MZ95NFzJ2CmF1Vx1AVh9-2">
           <mxCell parent="MZ95NFzJ2CmF1Vx1AVh9-1" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=#111111;strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;" vertex="1">
             <mxGeometry height="100" width="8" x="340" y="410" as="geometry" />
@@ -313,17 +313,17 @@
         </object>
         <object label="50" tooltip="Panel 50 — 40 inches" panelNumber="50" lengthInches="40" drawioLengthUnits="100" orientation="V" sourceX1="1000" sourceY1="300" sourceX2="1000" sourceY2="400" id="MZ95NFzJ2CmF1Vx1AVh9-51">
           <mxCell parent="MZ95NFzJ2CmF1Vx1AVh9-1" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=#111111;strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;" vertex="1">
-            <mxGeometry height="100" width="8" x="1232" y="-90" as="geometry" />
+            <mxGeometry height="100" width="8" x="1290" y="-90" as="geometry" />
           </mxCell>
         </object>
         <object label="51" tooltip="Panel 51 — 40 inches" panelNumber="51" lengthInches="40" drawioLengthUnits="100" orientation="H" sourceX1="900" sourceY1="300" sourceX2="1000" sourceY2="300" id="MZ95NFzJ2CmF1Vx1AVh9-52">
           <mxCell parent="MZ95NFzJ2CmF1Vx1AVh9-1" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=#111111;strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=center;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;labelBackgroundColor=#ffffff;spacingBottom=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;" vertex="1">
-            <mxGeometry height="8" width="100" x="1132" y="-90" as="geometry" />
+            <mxGeometry height="8" width="100" x="1140" y="-90" as="geometry" />
           </mxCell>
         </object>
         <object label="52" tooltip="Panel 52 — 40 inches" panelNumber="52" lengthInches="40" drawioLengthUnits="100" orientation="H" sourceX1="800" sourceY1="200" sourceX2="900" sourceY2="200" id="MZ95NFzJ2CmF1Vx1AVh9-53">
           <mxCell parent="MZ95NFzJ2CmF1Vx1AVh9-1" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=#111111;strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=center;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;labelBackgroundColor=#ffffff;spacingBottom=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;" vertex="1">
-            <mxGeometry height="8" width="100" x="1032" y="-190" as="geometry" />
+            <mxGeometry height="8" width="100" x="1040" y="-190" as="geometry" />
           </mxCell>
         </object>
         <object label="53" tooltip="Panel 53 — 40 inches" panelNumber="53" lengthInches="40" drawioLengthUnits="100" orientation="H" sourceX1="700" sourceY1="300" sourceX2="800" sourceY2="300" id="MZ95NFzJ2CmF1Vx1AVh9-54">
@@ -428,15 +428,40 @@
         </object>
         <object label="73" tooltip="Panel 73 — 40 inches" panelNumber="73" lengthInches="40" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="200" sourceX2="900" sourceY2="300" id="MZ95NFzJ2CmF1Vx1AVh9-74">
           <mxCell parent="MZ95NFzJ2CmF1Vx1AVh9-1" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=#111111;strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;" vertex="1">
-            <mxGeometry height="100" width="8" x="1132" y="-190" as="geometry" />
+            <mxGeometry height="100" width="8" x="1140" y="-190" as="geometry" />
           </mxCell>
         </object>
         <object label="74" tooltip="Panel 74 — 40 inches" panelNumber="74" lengthInches="40" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="100" sourceX2="900" sourceY2="200" id="MZ95NFzJ2CmF1Vx1AVh9-75">
           <mxCell parent="MZ95NFzJ2CmF1Vx1AVh9-1" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=#111111;strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;" vertex="1">
-            <mxGeometry height="100" width="8" x="1132" y="-290" as="geometry" />
+            <mxGeometry height="100" width="8" x="1140" y="-290" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-76" parent="0" style="locked=0;" value="Fixed Labels / Annotations" />
+        <object label="00" tooltip="Panel 12 — 40 inches" panelNumber="12" lengthInches="40" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-6">
+          <mxCell parent="MZ95NFzJ2CmF1Vx1AVh9-1" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=#111111;strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;rotation=90;" vertex="1">
+            <mxGeometry height="100" width="8" x="386" y="284" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="00" tooltip="Panel 12 — 40 inches" panelNumber="12" lengthInches="40" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-1">
+          <mxCell parent="MZ95NFzJ2CmF1Vx1AVh9-1" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=#111111;strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;" vertex="1">
+            <mxGeometry height="100" width="8" x="1148" y="510" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="00" tooltip="Panel 12 — 40 inches" panelNumber="12" lengthInches="40" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-2">
+          <mxCell parent="MZ95NFzJ2CmF1Vx1AVh9-1" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=#111111;strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;rotation=90;" vertex="1">
+            <mxGeometry height="100" width="8" x="1094" y="564" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="00" tooltip="Panel 12 — 40 inches" panelNumber="12" lengthInches="40" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-3">
+          <mxCell parent="MZ95NFzJ2CmF1Vx1AVh9-1" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=#111111;strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;rotation=90;" vertex="1">
+            <mxGeometry height="100" width="8" x="994" y="564" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="00" tooltip="Panel 12 — 40 inches" panelNumber="12" lengthInches="40" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-4">
+          <mxCell parent="MZ95NFzJ2CmF1Vx1AVh9-1" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=#111111;strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;rotation=90;" vertex="1">
+            <mxGeometry height="100" width="8" x="894" y="564" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-76" parent="0" style="locked=1;" value="Fixed Labels / Annotations" />
         <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-77" parent="MZ95NFzJ2CmF1Vx1AVh9-76" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontFamily=Helvetica;fontColor=#111111;fontStyle=1;movable=1;resizable=0;rotatable=0;connectable=0;" value="Porch" vertex="1">
           <mxGeometry height="50" width="160" x="710" y="-370" as="geometry" />
         </mxCell>
@@ -447,7 +472,7 @@
           <mxGeometry height="45" width="90" x="260" y="330" as="geometry" />
         </mxCell>
         <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-80" parent="MZ95NFzJ2CmF1Vx1AVh9-76" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontFamily=Helvetica;fontColor=#111111;fontStyle=1;movable=1;resizable=0;rotatable=0;connectable=0;" value="Entrance" vertex="1">
-          <mxGeometry height="45" width="160" x="1010" y="600" as="geometry" />
+          <mxGeometry height="45" width="160" x="664" y="700" as="geometry" />
         </mxCell>
         <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-83" edge="1" parent="MZ95NFzJ2CmF1Vx1AVh9-76" style="endArrow=block;endFill=1;strokeWidth=7;strokeColor=#111111;html=1;rounded=0;movable=1;resizable=0;rotatable=0;connectable=0;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -457,8 +482,8 @@
         </mxCell>
         <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-84" edge="1" parent="MZ95NFzJ2CmF1Vx1AVh9-76" style="endArrow=block;endFill=1;strokeWidth=7;strokeColor=#111111;html=1;rounded=0;movable=1;resizable=0;rotatable=0;connectable=0;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1090" y="580" as="sourcePoint" />
-            <mxPoint x="1090" y="525" as="targetPoint" />
+            <mxPoint x="760" y="673" as="sourcePoint" />
+            <mxPoint x="810" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-81" parent="MZ95NFzJ2CmF1Vx1AVh9-76" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Helvetica;fontColor=#111111;fontStyle=0;movable=1;resizable=0;rotatable=0;connectable=0;" value="1 grid step = 40 in actual  •  Each wall panel = 100 draw.io units = 40 in" vertex="1">
@@ -467,11 +492,11 @@
         <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-82" parent="MZ95NFzJ2CmF1Vx1AVh9-76" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;fontColor=#111111;fontStyle=0;movable=1;resizable=0;rotatable=0;connectable=0;" value="Panel resizing is locked. Drag, rotate, duplicate, or delete panels as needed." vertex="1">
           <mxGeometry height="30" width="650" x="100" y="1060" as="geometry" />
         </mxCell>
-        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-85" parent="0" value="Measurements" />
-        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-86" parent="0" value="Guest Path / Flow" />
-        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-87" parent="0" value="Props / Scares" />
-        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-88" parent="0" value="Actors" />
-        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-89" parent="0" value="Lighting" />
+        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-85" parent="0" value="Measurements" visible="0" />
+        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-86" parent="0" value="Guest Path / Flow" visible="0" />
+        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-87" parent="0" value="Props / Scares" visible="0" />
+        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-88" parent="0" value="Actors" visible="0" />
+        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-89" parent="0" value="Lighting" visible="0" />
         <mxCell id="BJnBotHbN-F4IOUxwsjP-5" parent="MZ95NFzJ2CmF1Vx1AVh9-89" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#994C00);strokeColor=light-dark(#000000,transparent);" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="30" x="730" y="530" as="geometry" />
         </mxCell>
@@ -490,14 +515,14 @@
         <mxCell id="BJnBotHbN-F4IOUxwsjP-15" parent="MZ95NFzJ2CmF1Vx1AVh9-89" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#994C00);strokeColor=light-dark(#000000,transparent);" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="30" x="960" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-90" parent="0" value="Electrical / Power" />
-        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-91" parent="0" value="Audio" />
+        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-90" parent="0" value="Electrical / Power" visible="0" />
+        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-91" parent="0" value="Audio" visible="0" />
         <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-92" parent="0" value="Notes" />
         <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-93" parent="MZ95NFzJ2CmF1Vx1AVh9-92" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;fontColor=#111111;fontStyle=0;movable=1;resizable=0;rotatable=0;connectable=0;" value="Notes layer — add construction notes, changes, or collaboration comments here." vertex="1">
           <mxGeometry height="50" width="330" x="1440" y="-550" as="geometry" />
         </mxCell>
-        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-94" parent="0" value="Reference" />
-        <mxCell id="OGPbcw0LDPJYkH-NJSHE-1" parent="0" value="Actors" />
+        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-94" parent="0" value="Reference" visible="0" />
+        <mxCell id="OGPbcw0LDPJYkH-NJSHE-1" parent="0" value="Actors" visible="0" />
         <mxCell id="BJnBotHbN-F4IOUxwsjP-16" parent="OGPbcw0LDPJYkH-NJSHE-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FFD966);" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Actor&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="877" y="340" as="geometry" />
         </mxCell>
@@ -510,7 +535,207 @@
         <mxCell id="BJnBotHbN-F4IOUxwsjP-19" parent="OGPbcw0LDPJYkH-NJSHE-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=22;" value="&lt;div&gt;Witch /&amp;nbsp;&lt;/div&gt;&lt;div&gt;Monster Death&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="440" y="-390" as="geometry" />
         </mxCell>
-        <mxCell id="OGPbcw0LDPJYkH-NJSHE-2" parent="0" value="Props" />
+        <mxCell id="OGPbcw0LDPJYkH-NJSHE-2" parent="0" value="Props" visible="0" />
+        <mxCell id="EzEbgY4VTqz-6Y6T7_PC-7" parent="0" value="Cross beams" />
+        <object label="" tooltip="Cross beam - 48&quot;" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-11">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#336600);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="200" width="8" x="2190" y="-70" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-13">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#336600);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" x="2300" y="-70" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-14">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#336600);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=-90;" vertex="1">
+            <mxGeometry height="400" width="8" x="1471" y="-486" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-16">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#336600);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="200" width="8" x="1656" y="54" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-17">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" x="1140" y="-290" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-18">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" x="1140" y="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-19">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="944" y="214" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-21">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="544" y="214" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-23">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="1036" y="14" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-24">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="636" y="14" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-25">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="1036" y="-86" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-26">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="636" y="-86" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-27">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="1036" y="-186" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-28">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="636" y="-186" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-29">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="1036" y="-286" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-30">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="636" y="-286" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-31">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="1036" y="-386" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-32">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="636" y="-386" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-33">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="1036" y="-486" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-34">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="636" y="-486" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-35">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" x="1040" y="-282" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-36">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" x="1040" y="118" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-37">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" x="944" y="-290" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-38">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" x="944" y="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-39">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" x="842" y="-282" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-40">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" x="842" y="118" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-41">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" x="740" y="-290" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-42">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" x="740" y="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-43">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" x="640" y="-282" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-44">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" x="640" y="118" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-47">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" x="540" y="-282" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-48">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-7" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" x="540" y="118" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="EzEbgY4VTqz-6Y6T7_PC-53" connectable="0" parent="EzEbgY4VTqz-6Y6T7_PC-7" style="group" value="" vertex="1">
+          <mxGeometry height="800" width="8" x="440" y="-290" as="geometry" />
+        </mxCell>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-51">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-53" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-52">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-53" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;" vertex="1">
+            <mxGeometry height="400" width="8" y="400" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="EzEbgY4VTqz-6Y6T7_PC-56" connectable="0" parent="EzEbgY4VTqz-6Y6T7_PC-7" style="group;rotation=90;" value="" vertex="1">
+          <mxGeometry height="800" width="8" x="746" y="114" as="geometry" />
+        </mxCell>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-54">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-56" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="200" y="200" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-55">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-56" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="-200" y="200" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="EzEbgY4VTqz-6Y6T7_PC-57" connectable="0" parent="EzEbgY4VTqz-6Y6T7_PC-7" style="group;rotation=90;" value="" vertex="1">
+          <mxGeometry height="800" width="8" x="842" y="-86" as="geometry" />
+        </mxCell>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-58">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-57" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="200" y="200" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" tooltip="Cross beam - 48&quot;96" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-59">
+          <mxCell parent="EzEbgY4VTqz-6Y6T7_PC-57" style="rounded=0;whiteSpace=nowrap;html=1;fillColor=light-dark(#111111,#3399FF);strokeColor=none;fontColor=#ff0000;fontSize=18;fontStyle=1;fontFamily=Helvetica;align=right;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;spacingRight=4;fixedSize=1;movable=1;resizable=0;rotatable=1;editable=1;deletable=1;cloneable=1;connectable=0;imageHeight=24;resizeHeight=0;rotation=90;" vertex="1">
+            <mxGeometry height="400" width="8" x="-200" y="200" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
