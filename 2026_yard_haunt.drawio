@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net">
   <diagram name="2026 Yard Haunt" id="7Oudr61eQWb0dV1M84EX">
-    <mxGraphModel dx="2568" dy="2546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2209" dy="2344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" style="locked=1;" />
-        <mxCell id="BJnBotHbN-F4IOUxwsjP-1" parent="0" style="locked=1;" value="Yard - Sidewalk - etc" />
+        <mxCell id="BJnBotHbN-F4IOUxwsjP-1" parent="0" style="locked=0;" value="Yard - Sidewalk - etc" />
         <mxCell id="BJnBotHbN-F4IOUxwsjP-2" edge="1" parent="BJnBotHbN-F4IOUxwsjP-1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="280" y="410" as="sourcePoint" />
@@ -64,6 +64,10 @@
             <mxPoint x="960" y="-390" as="sourcePoint" />
             <mxPoint x="960" y="-550" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R512_G_Zfvv_kDD7Pr0Y-104" parent="0" value="Areas" />
+        <mxCell id="R512_G_Zfvv_kDD7Pr0Y-105" parent="R512_G_Zfvv_kDD7Pr0Y-104" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="300" width="300" x="446" y="10" as="geometry" />
         </mxCell>
         <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-1" parent="0" style="locked=1;" value="Wall Panels — 40 in" visible="0" />
         <object label="1" tooltip="Panel 1 — 40 inches" panelNumber="1" lengthInches="40" drawioLengthUnits="100" orientation="V" sourceX1="100" sourceY1="800" sourceX2="100" sourceY2="900" id="MZ95NFzJ2CmF1Vx1AVh9-2">
@@ -923,7 +927,7 @@
           <mxGeometry height="50" width="330" x="1440" y="-550" as="geometry" />
         </mxCell>
         <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-94" parent="0" value="Reference" visible="0" />
-        <mxCell id="OGPbcw0LDPJYkH-NJSHE-1" parent="0" style="locked=1;" value="Actors" visible="0" />
+        <mxCell id="OGPbcw0LDPJYkH-NJSHE-1" parent="0" style="locked=1;" value="Actors" />
         <mxCell id="BJnBotHbN-F4IOUxwsjP-16" parent="OGPbcw0LDPJYkH-NJSHE-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FFD966);" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Actor&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="877" y="340" as="geometry" />
         </mxCell>
@@ -936,7 +940,7 @@
         <mxCell id="BJnBotHbN-F4IOUxwsjP-19" parent="OGPbcw0LDPJYkH-NJSHE-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=22;" value="&lt;div&gt;Witch /&amp;nbsp;&lt;/div&gt;&lt;div&gt;Monster Death&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="440" y="-390" as="geometry" />
         </mxCell>
-        <mxCell id="OGPbcw0LDPJYkH-NJSHE-2" parent="0" style="locked=1;" value="Props / Scares" visible="0" />
+        <mxCell id="OGPbcw0LDPJYkH-NJSHE-2" parent="0" style="locked=0;" value="Props / Scares" />
         <mxCell id="R512_G_Zfvv_kDD7Pr0Y-1" parent="OGPbcw0LDPJYkH-NJSHE-2" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=middle;fontSize=14;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Hollow&lt;br&gt;man&amp;nbsp;&lt;br&gt;&#39;25" vertex="1">
           <mxGeometry height="80" width="80" x="850" y="-80" as="geometry" />
         </mxCell>
@@ -975,6 +979,9 @@
         </mxCell>
         <mxCell id="R512_G_Zfvv_kDD7Pr0Y-101" parent="OGPbcw0LDPJYkH-NJSHE-2" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMThweCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMThweCIgZmlsbD0iIzAwMDAwMCI+PHBhdGggZD0iTTAgMGgyNHYyNEgwVjB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTEyIDZjMy43OSAwIDcuMTcgMi4xMyA4LjgyIDUuNUMxOS4xNyAxNC44NyAxNS43OSAxNyAxMiAxN3MtNy4xNy0yLjEzLTguODItNS41QzQuODMgOC4xMyA4LjIxIDYgMTIgNm0wLTJDNyA0IDIuNzMgNy4xMSAxIDExLjUgMi43MyAxNS44OSA3IDE5IDEyIDE5czkuMjctMy4xMSAxMS03LjVDMjEuMjcgNy4xMSAxNyA0IDEyIDR6bTAgNWMxLjM4IDAgMi41IDEuMTIgMi41IDIuNVMxMy4zOCAxNCAxMiAxNHMtMi41LTEuMTItMi41LTIuNVMxMC42MiA5IDEyIDltMC0yYy0yLjQ4IDAtNC41IDIuMDItNC41IDQuNVM5LjUyIDE2IDEyIDE2czQuNS0yLjAyIDQuNS00LjVTMTQuNDggNyAxMiA3eiIvPjwvc3ZnPg==;" value="" vertex="1">
           <mxGeometry height="18" width="18" x="1920" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="R512_G_Zfvv_kDD7Pr0Y-103" parent="OGPbcw0LDPJYkH-NJSHE-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;rotation=-90;" value="Blackout" vertex="1">
+          <mxGeometry height="30" width="250" x="370" y="160" as="geometry" />
         </mxCell>
         <mxCell id="EzEbgY4VTqz-6Y6T7_PC-7" parent="0" value="Cross beams" visible="0" />
         <object label="" tooltip="Cross beam - 48&quot;" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-11">
