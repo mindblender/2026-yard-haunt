@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="2026 Yard Haunt" id="7Oudr61eQWb0dV1M84EX">
-    <mxGraphModel dx="2600" dy="2565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2162" dy="2318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" style="locked=1;" />
@@ -863,7 +863,7 @@
           </mxCell>
         </object>
         <mxCell id="R512_G_Zfvv_kDD7Pr0Y-99" parent="R512_G_Zfvv_kDD7Pr0Y-19" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=90;" value="" vertex="1">
-          <mxGeometry height="85" width="80" x="657.5" y="122.5" as="geometry" />
+          <mxGeometry height="95.63" width="90" x="652.19" y="117.19" as="geometry" />
         </mxCell>
         <mxCell id="R512_G_Zfvv_kDD7Pr0Y-100" parent="R512_G_Zfvv_kDD7Pr0Y-19" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-90;" value="" vertex="1">
           <mxGeometry height="85" width="80" x="653.5" y="307.5" as="geometry" />
@@ -920,7 +920,7 @@
         <mxCell id="BJnBotHbN-F4IOUxwsjP-15" parent="MZ95NFzJ2CmF1Vx1AVh9-89" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#994C00);strokeColor=light-dark(#000000,transparent);" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="30" x="960" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-90" parent="0" value="Electrical / Power" />
+        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-90" parent="0" value="Electrical / Power" visible="0" />
         <mxCell id="0eodZPEGR_Kg-6q37H6B-6" connectable="0" parent="MZ95NFzJ2CmF1Vx1AVh9-90" style="group" value="" vertex="1">
           <mxGeometry height="40" width="40" x="389" y="270" as="geometry" />
         </mxCell>
