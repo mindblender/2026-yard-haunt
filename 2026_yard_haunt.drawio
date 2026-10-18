@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="2026 Yard Haunt" id="7Oudr61eQWb0dV1M84EX">
-    <mxGraphModel dx="2162" dy="2318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2977" dy="2777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" style="locked=1;" />
@@ -901,7 +901,7 @@
         </mxCell>
         <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-85" parent="0" value="Measurements" visible="0" />
         <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-86" parent="0" value="Guest Path / Flow" visible="0" />
-        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-89" parent="0" value="Lighting" visible="0" />
+        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-89" parent="0" value="Lighting" />
         <mxCell id="BJnBotHbN-F4IOUxwsjP-5" parent="MZ95NFzJ2CmF1Vx1AVh9-89" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#994C00);strokeColor=light-dark(#000000,transparent);" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="30" x="730" y="530" as="geometry" />
         </mxCell>
@@ -920,7 +920,7 @@
         <mxCell id="BJnBotHbN-F4IOUxwsjP-15" parent="MZ95NFzJ2CmF1Vx1AVh9-89" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#994C00);strokeColor=light-dark(#000000,transparent);" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="30" x="960" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-90" parent="0" value="Electrical / Power" visible="0" />
+        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-90" parent="0" value="Electrical / Power" />
         <mxCell id="0eodZPEGR_Kg-6q37H6B-6" connectable="0" parent="MZ95NFzJ2CmF1Vx1AVh9-90" style="group" value="" vertex="1">
           <mxGeometry height="40" width="40" x="389" y="270" as="geometry" />
         </mxCell>
@@ -1011,6 +1011,24 @@
         <mxCell id="0eodZPEGR_Kg-6q37H6B-41" parent="0eodZPEGR_Kg-6q37H6B-39" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Outlet.svg;imageBackground=none;" value="" vertex="1">
           <mxGeometry height="40" width="40" as="geometry" />
         </mxCell>
+        <mxCell id="wQYWg6Sxxic92PRDyYHn-7" connectable="0" parent="MZ95NFzJ2CmF1Vx1AVh9-90" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="860" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="wQYWg6Sxxic92PRDyYHn-8" parent="wQYWg6Sxxic92PRDyYHn-7" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="35" width="35" x="2.5" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wQYWg6Sxxic92PRDyYHn-9" parent="wQYWg6Sxxic92PRDyYHn-7" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Outlet.svg;imageBackground=none;" value="" vertex="1">
+          <mxGeometry height="40" width="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wQYWg6Sxxic92PRDyYHn-10" connectable="0" parent="MZ95NFzJ2CmF1Vx1AVh9-90" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="940" y="-320" as="geometry" />
+        </mxCell>
+        <mxCell id="wQYWg6Sxxic92PRDyYHn-11" parent="wQYWg6Sxxic92PRDyYHn-10" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="35" width="35" x="2.5" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wQYWg6Sxxic92PRDyYHn-12" parent="wQYWg6Sxxic92PRDyYHn-10" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Outlet.svg;imageBackground=none;" value="" vertex="1">
+          <mxGeometry height="40" width="40" as="geometry" />
+        </mxCell>
         <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-91" parent="0" value="Audio" visible="0" />
         <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-94" parent="0" value="Reference" />
         <mxCell id="OGPbcw0LDPJYkH-NJSHE-1" parent="0" style="locked=0;" value="Actors" />
@@ -1077,6 +1095,16 @@
         </mxCell>
         <mxCell id="R512_G_Zfvv_kDD7Pr0Y-108" parent="OGPbcw0LDPJYkH-NJSHE-2" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#4F2900,#644727);strokeColor=light-dark(#FFFFFF,#4F2900);" value="vibrating&lt;br&gt;floor" vertex="1">
           <mxGeometry height="60" width="60" x="640" y="-370" as="geometry" />
+        </mxCell>
+        <mxCell id="wQYWg6Sxxic92PRDyYHn-13" parent="0" value="Atmosphere" />
+        <mxCell id="wQYWg6Sxxic92PRDyYHn-14" parent="wQYWg6Sxxic92PRDyYHn-13" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;fog&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="850" y="-300" as="geometry" />
+        </mxCell>
+        <mxCell id="wQYWg6Sxxic92PRDyYHn-15" parent="wQYWg6Sxxic92PRDyYHn-13" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;haze&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="890" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="wQYWg6Sxxic92PRDyYHn-16" parent="wQYWg6Sxxic92PRDyYHn-13" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;fog&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="1160" y="570" as="geometry" />
         </mxCell>
         <mxCell id="EzEbgY4VTqz-6Y6T7_PC-7" parent="0" value="Cross beams" visible="0" />
         <object label="" tooltip="Cross beam - 48&quot;" lengthInches="96" drawioLengthUnits="100" orientation="V" sourceX1="900" sourceY1="800" sourceX2="900" sourceY2="900" id="EzEbgY4VTqz-6Y6T7_PC-11">
