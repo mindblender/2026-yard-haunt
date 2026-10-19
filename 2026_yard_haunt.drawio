@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="2026 Yard Haunt" id="7Oudr61eQWb0dV1M84EX">
-    <mxGraphModel dx="2977" dy="2777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3367" dy="2997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" style="locked=1;" />
@@ -1027,6 +1027,15 @@
           <mxGeometry height="35" width="35" x="2.5" y="2.5" as="geometry" />
         </mxCell>
         <mxCell id="wQYWg6Sxxic92PRDyYHn-12" parent="wQYWg6Sxxic92PRDyYHn-10" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Outlet.svg;imageBackground=none;" value="" vertex="1">
+          <mxGeometry height="40" width="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wQYWg6Sxxic92PRDyYHn-18" connectable="0" parent="MZ95NFzJ2CmF1Vx1AVh9-90" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="1220" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="wQYWg6Sxxic92PRDyYHn-19" parent="wQYWg6Sxxic92PRDyYHn-18" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="35" width="35" x="2.5" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wQYWg6Sxxic92PRDyYHn-20" parent="wQYWg6Sxxic92PRDyYHn-18" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Outlet.svg;imageBackground=none;" value="" vertex="1">
           <mxGeometry height="40" width="40" as="geometry" />
         </mxCell>
         <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-91" parent="0" value="Audio" visible="0" />
