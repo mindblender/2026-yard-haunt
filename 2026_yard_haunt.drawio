@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="2026 Yard Haunt" id="7Oudr61eQWb0dV1M84EX">
-    <mxGraphModel dx="3367" dy="2997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2977" dy="2777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" style="locked=1;" />
@@ -920,7 +920,7 @@
         <mxCell id="BJnBotHbN-F4IOUxwsjP-15" parent="MZ95NFzJ2CmF1Vx1AVh9-89" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#994C00);strokeColor=light-dark(#000000,transparent);" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="30" x="960" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-90" parent="0" value="Electrical / Power" />
+        <mxCell id="MZ95NFzJ2CmF1Vx1AVh9-90" parent="0" value="Electrical / Power" visible="0" />
         <mxCell id="0eodZPEGR_Kg-6q37H6B-6" connectable="0" parent="MZ95NFzJ2CmF1Vx1AVh9-90" style="group" value="" vertex="1">
           <mxGeometry height="40" width="40" x="389" y="270" as="geometry" />
         </mxCell>
@@ -1055,7 +1055,7 @@
         </mxCell>
         <mxCell id="OGPbcw0LDPJYkH-NJSHE-2" parent="0" style="locked=0;" value="Props / Scares" />
         <mxCell id="R512_G_Zfvv_kDD7Pr0Y-1" parent="OGPbcw0LDPJYkH-NJSHE-2" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=middle;fontSize=14;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Hollow&lt;br&gt;man&amp;nbsp;&lt;br&gt;&#39;25" vertex="1">
-          <mxGeometry height="80" width="80" x="850" y="-80" as="geometry" />
+          <mxGeometry height="80" width="80" x="860" y="-170" as="geometry" />
         </mxCell>
         <mxCell id="R512_G_Zfvv_kDD7Pr0Y-2" parent="OGPbcw0LDPJYkH-NJSHE-2" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=middle;fontSize=14;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Hollow&lt;br&gt;man&amp;nbsp;&lt;br&gt;&#39;26" vertex="1">
           <mxGeometry height="80" width="80" x="850" y="130" as="geometry" />
@@ -1070,10 +1070,10 @@
           <mxGeometry height="80" width="80" x="1070" y="320" as="geometry" />
         </mxCell>
         <mxCell id="R512_G_Zfvv_kDD7Pr0Y-6" parent="OGPbcw0LDPJYkH-NJSHE-2" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=middle;fontSize=14;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Johnny&lt;br&gt;Pumpkinseed" vertex="1">
-          <mxGeometry height="80" width="80" x="1060" y="20" as="geometry" />
+          <mxGeometry height="80" width="80" x="560" y="-70" as="geometry" />
         </mxCell>
         <mxCell id="R512_G_Zfvv_kDD7Pr0Y-7" parent="OGPbcw0LDPJYkH-NJSHE-2" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=middle;fontSize=14;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="&#39;25&lt;br&gt;Pelvis&lt;br&gt;Mask" vertex="1">
-          <mxGeometry height="80" width="80" x="1060" y="-270" as="geometry" />
+          <mxGeometry height="80" width="80" x="950" y="-280" as="geometry" />
         </mxCell>
         <mxCell id="R512_G_Zfvv_kDD7Pr0Y-8" parent="OGPbcw0LDPJYkH-NJSHE-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="Laser Swamp" vertex="1">
           <mxGeometry height="30" width="350" x="570" y="-250" as="geometry" />
